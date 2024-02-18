@@ -28,12 +28,14 @@
     "eslint": "^8.56.0"
   },
   "dependencies": {
+    "@types/mysql": "^2.15.25",
     "dotenv": "^16.3.1",
-    "moment": "^2.29.4",
-    "npm": "^10.2.5",
-    "playwright-elements": "^1.10.0",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
-    "nodemon": "^3.0.3"
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.3",
+    "npm": "^10.2.5",
+    "playwright-elements": "^1.10.0"
   }
 }
